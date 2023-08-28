@@ -12,5 +12,7 @@ To simply print out the sentences, you can run print_sentences() instead.
 
 # Credit
 Paul Purdom for the original algorithm
+
 Brian A. Malloy and James F. Power for the new interpretation of the algorithm
+
 The Fuzzing Book for the canonical and is_nonterminal methods
